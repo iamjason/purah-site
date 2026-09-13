@@ -8,11 +8,11 @@ Open each file exactly as written, format JSON only when requested, and show an 
 
 Requires macOS 15 or later. Universal builds support Apple silicon and Intel. Supports UTF-8 and BOM-marked UTF-16 text files up to 2 MB.
 
-This public repository hosts the website and artwork. Future public app releases will be published here. Application source is maintained separately.
+This public repository hosts the website, artwork, and signed, notarized releases. Application source is maintained separately.
 
 ## Install
 
-The first public app download is being prepared. No release package is published yet.
+Download [Purah 0.1.0](https://github.com/iamjason/purah-site/releases/download/v0.1.0/Purah-0.1.0.zip), unzip it, and drag Purah.app to Applications. A [SHA-256 checksum](https://github.com/iamjason/purah-site/releases/download/v0.1.0/Purah-0.1.0.zip.sha256) accompanies the release.
 
 ## Hyrule Compendium
 
