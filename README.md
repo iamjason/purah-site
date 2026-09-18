@@ -12,7 +12,7 @@ This public repository hosts the website, artwork, and signed, notarized release
 
 ## Install
 
-Download [Purah 0.1.0](https://github.com/iamjason/purah-site/releases/download/v0.1.0/Purah-0.1.0.zip), unzip it, and drag Purah.app to Applications. A [SHA-256 checksum](https://github.com/iamjason/purah-site/releases/download/v0.1.0/Purah-0.1.0.zip.sha256) accompanies the release.
+Download [Purah 0.1.1](https://github.com/iamjason/purah-site/releases/download/v0.1.1/Purah-0.1.1.zip), unzip it, and drag Purah.app to Applications. A [SHA-256 checksum](https://github.com/iamjason/purah-site/releases/download/v0.1.1/Purah-0.1.1.zip.sha256) accompanies the release.
 
 ## Hyrule Compendium
 
