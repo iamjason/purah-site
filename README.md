@@ -19,3 +19,7 @@ Download [Purah 0.1.0](https://github.com/iamjason/purah-site/releases/download/
 The `hyrule.json` manifest and `hyrule-tool` repository topic register Purah with the [Compendium](https://iamjason.github.io/hyrule-compendium-site/).
 
 The site is served by GitHub Pages from `main:/`. No build step or runtime dependencies are required.
+
+## Usage statistics
+
+This site records anonymous usage statistics: page views, download clicks and a daily visitor count derived from a hash of your IP address and browser. No cookies, no personal data, nothing stored in your browser. The collector is [Gossip Stone](https://github.com/iamjason/gossip-stone-swift#what-is-sent).
